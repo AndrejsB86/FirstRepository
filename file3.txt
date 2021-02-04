@@ -1,2 +1,3 @@
 I'm file 3
 new info
+new new new
