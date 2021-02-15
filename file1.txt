@@ -3,3 +3,5 @@ Goodbye?
 Line from user2
 Line from user1
 some new feature
+
+Line from USER1rebase
