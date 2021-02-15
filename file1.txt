@@ -1,6 +1,5 @@
 Hello world!
-Goodbye?!
-sdfkjbasd,jvbS
+Goodbye?
 Line from user2
->>>>>>> c48c1747e82ec12e22d536dc50d369ad5e97ebf3
 Line from user1
+some new feature
